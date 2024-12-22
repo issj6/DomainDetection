@@ -1,0 +1,870 @@
+{
+  "com": {
+    "whois_server": "whois.verisign-grs.com",
+    "data_mark": "No match for"
+  },
+  "edu": {
+    "whois_server": "whois.verisign-grs.com",
+    "data_mark": "No match for"
+  },
+  "net": {
+    "whois_server": "whois.verisign-grs.com",
+    "data_mark": "No match for"
+  },
+  "ad": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "o entries found"
+  },
+  "ae": {
+    "whois_server": "whois.aeda.net.ae",
+    "data_mark": "No Data Found"
+  },
+  "af": {
+    "whois_server": "whois.nic.af",
+    "data_mark": "No Object Found"
+  },
+  "ag": {
+    "whois_server": "whois.nic.ag",
+    "data_mark": "NOT FOUND"
+  },
+  "am": {
+    "whois_server": "whois.amnic.net",
+    "data_mark": "o match"
+  },
+  "as": {
+    "whois_server": "whois.nic.as",
+    "data_mark": "NOT FOUND"
+  },
+  "at": {
+    "whois_server": "whois.nic.at",
+    "data_mark": "othing found"
+  },
+  "au": {
+    "whois_server": "whois.audns.net.au",
+    "data_mark": "No Data Found"
+  },
+  "be": {
+    "whois_server": "whois.dns.be",
+    "data_mark": "AVAILABLE"
+  },
+  "ar": {
+    "whois_server": "whois.nic.ar",
+    "data_mark": "dominio no se"
+  },
+  "aw": {
+    "whois_server": "whois.nic.aw",
+    "data_mark": "is free"
+  },
+  "ax": {
+    "whois_server": "whois.ax",
+    "data_mark": "Domain not found"
+  },
+  "al": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "az": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "ba": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "bg": {
+    "whois_server": "whois.register.bg",
+    "data_mark": "does not exist in database"
+  },
+  "bi": {
+    "whois_server": "whois1.nic.bi",
+    "data_mark": "No Object Found"
+  },
+  "bingo": {
+    "whois_server": "whois.donuts.co",
+    "data_mark": "Domain not found"
+  },
+  "bio": {
+    "whois_server": "whois.ksregistry.net",
+    "data_mark": "bject does not exist"
+  },
+  "biz": {
+    "whois_server": "whois.nic.biz",
+    "data_mark": "ot found"
+  },
+  "bj": {
+    "whois_server": "whois.nic.bj",
+    "data_mark": "No Object Found"
+  },
+  "bn": {
+    "whois_server": "whois.bnnic.bn",
+    "data_mark": "Domain Not Found"
+  },
+  "br": {
+    "whois_server": "whois.nic.br",
+    "data_mark": "o match for"
+  },
+  "buy": {
+    "whois_server": "whois.afilias-srs.net",
+    "data_mark": "NOT FOUND"
+  },
+  "buzz": {
+    "whois_server": "whois.nic.buzz",
+    "data_mark": "vailable"
+  },
+  "bw": {
+    "whois_server": "whois.nic.net.bw",
+    "data_mark": "No Object Found"
+  },
+  "bz": {
+    "whois_server": "whois.afilias-grs.info",
+    "data_mark": "NOT FOUND"
+  },
+  "cat": {
+    "whois_server": "whois.nic.cat",
+    "data_mark": "o match"
+  },
+  "cc": {
+    "whois_server": "ccwhois.verisign-grs.com",
+    "data_mark": "No match for"
+  },
+  "cd": {
+    "whois_server": "whois.nic.cd",
+    "data_mark": "No Object Found"
+  },
+  "cf": {
+    "whois_server": "whois.dot.cf",
+    "data_mark": "not known"
+  },
+  "ci": {
+    "whois_server": "whois.nic.ci",
+    "data_mark": "No Object Found"
+  },
+  "cl": {
+    "whois_server": "whois.nic.cl",
+    "data_mark": "no existe"
+  },
+  "cm": {
+    "whois_server": "whois.netcom.cm",
+    "data_mark": "Not Registered"
+  },
+  "cn": {
+    "whois_server": "whois.cnnic.net.cn",
+    "data_mark": "No matching record"
+  },
+  "co": {
+    "whois_server": "whois.nic.co",
+    "data_mark": "Not found"
+  },
+  "cool": {
+    "whois_server": "whois.donuts.co",
+    "data_mark": "Domain not found"
+  },
+  "cr": {
+    "whois_server": "whois.nic.cr",
+    "data_mark": "No entries found"
+  },
+  "cx": {
+    "whois_server": "whois.nic.cx",
+    "data_mark": "No Object Found"
+  },
+  "cy": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "cz": {
+    "whois_server": "whois.nic.cz",
+    "data_mark": "o entries found"
+  },
+  "de": {
+    "whois_server": "whois.nic.de",
+    "data_mark": "Status: free"
+  },
+  "dk": {
+    "whois_server": "whois.dk-hostmaster.dk",
+    "data_mark": "o entries found"
+  },
+  "dm": {
+    "whois_server": "whois.nic.dm",
+    "data_mark": "ot found"
+  },
+  "do": {
+    "whois_server": "whois.nic.do",
+    "data_mark": "No Object Found"
+  },
+  "dog": {
+    "whois_server": "whois.donuts.co",
+    "data_mark": "Domain not found"
+  },
+  "dz": {
+    "whois_server": "whois.nic.dz",
+    "data_mark": "NO OBJECT FOUND"
+  },
+  "ec": {
+    "whois_server": "whois.nic.ec",
+    "data_mark": "Not Registered"
+  },
+  "ee": {
+    "whois_server": "whois.eenet.ee",
+    "data_mark": "not found"
+  },
+  "email": {
+    "whois_server": "whois.donuts.co",
+    "data_mark": "Domain not found"
+  },
+  "eu": {
+    "whois_server": "whois.eu",
+    "data_mark": "Status: AVAILABLE"
+  },
+  "fi": {
+    "whois_server": "whois.fi",
+    "data_mark": "ot found"
+  },
+  "fj": {
+    "whois_server": "whois.usp.ac.fj",
+    "data_mark": "ot found"
+  },
+  "fm": {
+    "whois_server": "whois.nic.fm",
+    "data_mark": "ot found"
+  },
+  "fo": {
+    "whois_server": "whois.nic.fo",
+    "data_mark": "No entries found"
+  },
+  "fr": {
+    "whois_server": "whois.nic.fr",
+    "data_mark": "o entries found"
+  },
+  "gb": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "gd": {
+    "whois_server": "whois.nic.gd",
+    "data_mark": "ot found"
+  },
+  "ge": {
+    "whois_server": "whois.ripe.net",
+    "data_mark": "No entries found"
+  },
+  "gg": {
+    "whois_server": "whois.gg",
+    "data_mark": "NOT FOUND"
+  },
+  "gi": {
+    "whois_server": "whois2.afilias-grs.net",
+    "data_mark": "NOT FOUND"
+  },
+  "gl": {
+    "whois_server": "whois.nic.gl",
+    "data_mark": "No Object Found"
+  },
+  "gov": {
+    "whois_server": "whois.dotgov.gov",
+    "data_mark": "o match for"
+  },
+  "gq": {
+    "whois_server": "whois.dominio.gq",
+    "data_mark": "ot known"
+  },
+  "gs": {
+    "whois_server": "whois.nic.gs",
+    "data_mark": "No Object Found"
+  },
+  "gy": {
+    "whois_server": "whois.registry.gy",
+    "data_mark": "No Object Found"
+  },
+  "hk": {
+    "whois_server": "whois.hkirc.hk",
+    "data_mark": "has not been registered"
+  },
+  "hm": {
+    "whois_server": "whois.registry.hm",
+    "data_mark": "ot found"
+  },
+  "hn": {
+    "whois_server": "whois.nic.hn",
+    "data_mark": "No Object Found"
+  },
+  "host": {
+    "whois_server": "whois.nic.host",
+    "data_mark": "NOT FOUND"
+  },
+  "hr": {
+    "whois_server": "whois.dns.hr",
+    "data_mark": "o entries found"
+  },
+  "ht": {
+    "whois_server": "whois.nic.ht",
+    "data_mark": "No Object Found"
+  },
+  "hu": {
+    "whois_server": "whois.nic.hu",
+    "data_mark": "o match"
+  },
+  "id": {
+    "whois_server": "whois.pandi.or.id",
+    "data_mark": "NOT FOUND"
+  },
+  "ie": {
+    "whois_server": "whois.domainregistry.ie",
+    "data_mark": "Not Registered"
+  },
+  "il": {
+    "whois_server": "whois.isoc.org.il",
+    "data_mark": "o data was found"
+  },
+  "im": {
+    "whois_server": "whois.nic.im",
+    "data_mark": "ot found"
+  },
+  "in": {
+    "whois_server": "whois.inregistry.in",
+    "data_mark": "NOT FOUND"
+  },
+  "info": {
+    "whois_server": "whois.afilias.info",
+    "data_mark": "NOT FOUND"
+  },
+  "int": {
+    "whois_server": "whois.iana.org",
+    "data_mark": "this server does not have"
+  },
+  "io": {
+    "whois_server": "whois.nic.io",
+    "data_mark": "available"
+  },
+  "iq": {
+    "whois_server": "whois.cmc.iq",
+    "data_mark": "No Object Found"
+  },
+  "ir": {
+    "whois_server": "whois.nic.ir",
+    "data_mark": "o entries found"
+  },
+  "is": {
+    "whois_server": "whois.isnic.is",
+    "data_mark": "o entries found"
+  },
+  "it": {
+    "whois_server": "whois.nic.it",
+    "data_mark": "AVAILABLE"
+  },
+  "je": {
+    "whois_server": "whois.je",
+    "data_mark": "NOT FOUND"
+  },
+  "jp": {
+    "whois_server": "whois.jprs.jp",
+    "data_mark": "No match"
+  },
+  "ke": {
+    "whois_server": "whois.kenic.or.ke",
+    "data_mark": "No Object Found"
+  },
+  "kg": {
+    "whois_server": "whois.domain.kg",
+    "data_mark": "ot found"
+  },
+  "ki": {
+    "whois_server": "whois.nic.ki",
+    "data_mark": "No Object Found"
+  },
+  "kn": {
+    "whois_server": "whois.nic.kn",
+    "data_mark": "No Object Found"
+  },
+  "kr": {
+    "whois_server": "whois.kr",
+    "data_mark": "ot found"
+  },
+  "ky": {
+    "whois_server": "whois.kyregistry.ky",
+    "data_mark": "vailable"
+  },
+  "kz": {
+    "whois_server": "whois.nic.kz",
+    "data_mark": "othing found"
+  },
+  "la": {
+    "whois_server": "whois.nic.la",
+    "data_mark": "DOMAIN NOT FOUND"
+  },
+  "lc": {
+    "whois_server": "whois.afilias-grs.net",
+    "data_mark": "NOT FOUND"
+  },
+  "li": {
+    "whois_server": "whois.nic.li",
+    "data_mark": "not have an entry"
+  },
+  "lt": {
+    "whois_server": "whois.domreg.lt",
+    "data_mark": "available"
+  },
+  "lu": {
+    "whois_server": "whois.dns.lu",
+    "data_mark": "no such domain"
+  },
+  "lv": {
+    "whois_server": "whois.nic.lv",
+    "data_mark": " free"
+  },
+  "ly": {
+    "whois_server": "whois.nic.ly",
+    "data_mark": "Not found"
+  },
+  "ma": {
+    "whois_server": "whois.iam.net.ma",
+    "data_mark": "No Object Found"
+  },
+  "md": {
+    "whois_server": "whois.nic.md",
+    "data_mark": "No match for"
+  },
+  "me": {
+    "whois_server": "whois.nic.me",
+    "data_mark": "NOT FOUND"
+  },
+  "mg": {
+    "whois_server": "whois.nic.mg",
+    "data_mark": "No Object Found"
+  },
+  "mk": {
+    "whois_server": "whois.marnet.mk",
+    "data_mark": "No entries found"
+  },
+  "ml": {
+    "whois_server": "whois.dot.ml",
+    "data_mark": "ot known"
+  },
+  "mm": {
+    "whois_server": "whois.nic.mm",
+    "data_mark": "No domains matched"
+  },
+  "mn": {
+    "whois_server": "whois.nic.mn",
+    "data_mark": "NOT FOUND"
+  },
+  "mo": {
+    "whois_server": "whois.monic.mo",
+    "data_mark": "o match for"
+  },
+  "mobi": {
+    "whois_server": "whois.afilias.net",
+    "data_mark": "NOT FOUND"
+  },
+  "moe": {
+    "whois_server": "whois.nic.moe",
+    "data_mark": "No Data Found"
+  },
+  "mom": {
+    "whois_server": "whois.uniregistry.net",
+    "data_mark": "available"
+  },
+  "ms": {
+    "whois_server": "whois.nic.ms",
+    "data_mark": "No Object Found"
+  },
+  "mu": {
+    "whois_server": "whois.nic.mu",
+    "data_mark": "No Object Found"
+  },
+  "mx": {
+    "whois_server": "whois.mx",
+    "data_mark": "Object_Not_Found"
+  },
+  "my": {
+    "whois_server": "whois.mynic.net.my",
+    "data_mark": "does not exist"
+  },
+  "mz": {
+    "whois_server": "whois.nic.mz",
+    "data_mark": "No Object Found"
+  },
+  "na": {
+    "whois_server": "whois.na-nic.com.na",
+    "data_mark": "No Object Found"
+  },
+  "name": {
+    "whois_server": "whois.nic.name",
+    "data_mark": "o match"
+  },
+  "nc": {
+    "whois_server": "whois.nc",
+    "data_mark": "o entries found"
+  },
+  "nf": {
+    "whois_server": "whois.nic.nf",
+    "data_mark": "No Object Found"
+  },
+  "ng": {
+    "whois_server": "whois.nic.net.ng",
+    "data_mark": "No Object Found"
+  },
+  "nl": {
+    "whois_server": "whois.domain-registry.nl",
+    "data_mark": "is free"
+  },
+  "no": {
+    "whois_server": "whois.norid.no",
+    "data_mark": "o match"
+  },
+  "nu": {
+    "whois_server": "whois.nic.nu",
+    "data_mark": "ot found"
+  },
+  "nz": {
+    "whois_server": "whois.srs.net.nz",
+    "data_mark": "220 Available"
+  },
+  "co.nz": {
+    "whois_server": "whois.srs.net.nz",
+    "data_mark": "220 Available"
+  },
+  "om": {
+    "whois_server": "whois.registry.om",
+    "data_mark": "No Data Found"
+  },
+  "one": {
+    "whois_server": "whois.nic.one",
+    "data_mark": "No Data Found"
+  },
+  "ooo": {
+    "whois_server": "whois.nic.ooo",
+    "data_mark": "o match for"
+  },
+  "org": {
+    "whois_server": "whois.publicinterestregistry.net",
+    "data_mark": "NOT FOUND"
+  },
+  "ovh": {
+    "whois_server": "whois-ovh.nic.fr",
+    "data_mark": "bject does not exist"
+  },
+  "pe": {
+    "whois_server": "kero.yachay.pe",
+    "data_mark": "No Object Found"
+  },
+  "pet": {
+    "whois_server": "whois.afilias.net",
+    "data_mark": "NOT FOUND"
+  },
+  "pf": {
+    "whois_server": "whois.registry.pf",
+    "data_mark": "Domain unknown"
+  },
+  "pl": {
+    "whois_server": "whois.dns.pl",
+    "data_mark": "No information available"
+  },
+  "pm": {
+    "whois_server": "whois.nic.pm",
+    "data_mark": "o entries found"
+  },
+  "pr": {
+    "whois_server": "whois.nic.pr",
+    "data_mark": "is not registered"
+  },
+  "pro": {
+    "whois_server": "whois.registrypro.pro",
+    "data_mark": "NOT FOUND"
+  },
+  "ps": {
+    "whois_server": "whois.pnina.ps",
+    "data_mark": "No Object Found"
+  },
+  "pt": {
+    "whois_server": "whois.dns.pt",
+    "data_mark": "o match"
+  },
+  "pub": {
+    "whois_server": "whois.unitedtld.com",
+    "data_mark": "ot found"
+  },
+  "pw": {
+    "whois_server": "whois.nic.pw",
+    "data_mark": "DOMAIN NOT FOUND"
+  },
+  "qa": {
+    "whois_server": "whois.registry.qa",
+    "data_mark": "No Data Found"
+  },
+  "re": {
+    "whois_server": "whois.nic.re",
+    "data_mark": "o entries found"
+  },
+  "ro": {
+    "whois_server": "whois.rotld.ro",
+    "data_mark": "o entries found"
+  },
+  "rs": {
+    "whois_server": "whois.rnids.rs",
+    "data_mark": "is not registered"
+  },
+  "ru": {
+    "whois_server": "whois.tcinet.ru",
+    "data_mark": "No entries found"
+  },
+  "rw": {
+    "whois_server": "whois.ricta.org.rw",
+    "data_mark": "No Object Found"
+  },
+  "sa": {
+    "whois_server": "whois.nic.net.sa",
+    "data_mark": "No Match"
+  },
+  "sb": {
+    "whois_server": "whois.nic.net.sb",
+    "data_mark": "No Object Found"
+  },
+  "com.sb": {
+    "whois_server": "whois.nic.net.sb",
+    "data_mark": "No Object Found"
+  },
+  "sc": {
+    "whois_server": "whois.afilias-grs.net",
+    "data_mark": "ot found"
+  },
+  "se": {
+    "whois_server": "whois.nic.se",
+    "data_mark": "ot found"
+  },
+  "sg": {
+    "whois_server": "whois.nic.net.sg",
+    "data_mark": "Not Found"
+  },
+  "com.sg": {
+    "whois_server": "whois.nic.net.sg",
+    "data_mark": "Not Found"
+  },
+  "sh": {
+    "whois_server": "whois.nic.sh",
+    "data_mark": "is available for purchase"
+  },
+  "si": {
+    "whois_server": "whois.arnes.si",
+    "data_mark": "o entries found"
+  },
+  "site": {
+    "whois_server": "whois.centralnic.com",
+    "data_mark": "NOT FOUND"
+  },
+  "sk": {
+    "whois_server": "whois.sk-nic.sk",
+    "data_mark": "ot found"
+  },
+  "sl": {
+    "whois_server": "whois.nic.sl",
+    "data_mark": "No Object Found"
+  },
+  "sm": {
+    "whois_server": "whois.nic.sm",
+    "data_mark": "No entries found"
+  },
+  "sn": {
+    "whois_server": "whois.nic.sn",
+    "data_mark": "NOT FOUND"
+  },
+  "so": {
+    "whois_server": "whois.nic.so",
+    "data_mark": "ot found"
+  },
+  "st": {
+    "whois_server": "whois.nic.st",
+    "data_mark": "o entries found"
+  },
+  "su": {
+    "whois_server": "whois.tcinet.ru",
+    "data_mark": "No entries found"
+  },
+  "sx": {
+    "whois_server": "whois.sx",
+    "data_mark": "o match for"
+  },
+  "sy": {
+    "whois_server": "whois.tld.sy",
+    "data_mark": "No Object Found"
+  },
+  "tc": {
+    "whois_server": "whois.nic.tc",
+    "data_mark": "No Object Found"
+  },
+  "tel": {
+    "whois_server": "whois.nic.tel",
+    "data_mark": "No Domain"
+  },
+  "tf": {
+    "whois_server": "whois.nic.tf",
+    "data_mark": "o entries found"
+  },
+  "tg": {
+    "whois_server": "whois.nic.tg",
+    "data_mark": "NO OBJECT FOUND"
+  },
+  "th": {
+    "whois_server": "whois.thnic.co.th",
+    "data_mark": "o match for"
+  },
+  "tk": {
+    "whois_server": "whois.dot.tk",
+    "data_mark": "ot known"
+  },
+  "tl": {
+    "whois_server": "whois.nic.tl",
+    "data_mark": "No Object Found"
+  },
+  "tm": {
+    "whois_server": "whois.nic.tm",
+    "data_mark": "is available"
+  },
+  "tn": {
+    "whois_server": "whois.ati.tn",
+    "data_mark": "NO OBJECT FOUND"
+  },
+  "to": {
+    "whois_server": "whois.tonic.to",
+    "data_mark": "o match for"
+  },
+  "top": {
+    "whois_server": "whois.nic.top",
+    "data_mark": "bject does not exist"
+  },
+  "tr": {
+    "whois_server": "whois.nic.tr",
+    "data_mark": "Invalid input"
+  },
+  "tv": {
+    "whois_server": "tvwhois.verisign-grs.com",
+    "data_mark": "o match for"
+  },
+  "tw": {
+    "whois_server": "whois.twnic.net.tw",
+    "data_mark": "No Found"
+  },
+  "tz": {
+    "whois_server": "whois.tznic.or.tz",
+    "data_mark": "No entries found"
+  },
+  "ua": {
+    "whois_server": "whois.ua",
+    "data_mark": "o entries found"
+  },
+  "ug": {
+    "whois_server": "whois.co.ug",
+    "data_mark": "o entries found"
+  },
+  "uk": {
+    "whois_server": "whois.nic.uk",
+    "data_mark": "No match"
+  },
+  "co.uk": {
+    "whois_server": "whois.nic.uk",
+    "data_mark": "No match"
+  },
+  "us": {
+    "whois_server": "whois.nic.us",
+    "data_mark": "ot found"
+  },
+  "uy": {
+    "whois_server": "whois.nic.org.uy",
+    "data_mark": "o match for"
+  },
+  "uz": {
+    "whois_server": "whois.cctld.uz",
+    "data_mark": "ot found"
+  },
+  "vc": {
+    "whois_server": "whois2.afilias-grs.net",
+    "data_mark": "NOT FOUND"
+  },
+  "ve": {
+    "whois_server": "whois.nic.ve",
+    "data_mark": "o match for"
+  },
+  "vg": {
+    "whois_server": "whois.nic.vg",
+    "data_mark": "ot found"
+  },
+  "vip": {
+    "whois_server": "whois.nic.vip",
+    "data_mark": "has not been registered"
+  },
+  "vu": {
+    "whois_server": "vunic.vu",
+    "data_mark": "is not valid"
+  },
+  "wang": {
+    "whois_server": "whois.gtld.knet.cn",
+    "data_mark": "bject does not exist"
+  },
+  "wf": {
+    "whois_server": "whois.nic.wf",
+    "data_mark": "o entries found"
+  },
+  "wiki": {
+    "whois_server": "whois.nic.wiki",
+    "data_mark": "NOT FOUND"
+  },
+  "win": {
+    "whois_server": "whois.nic.win",
+    "data_mark": "vailable"
+  },
+  "ws": {
+    "whois_server": "whois.website.ws",
+    "data_mark": "o match for"
+  },
+  "xin": {
+    "whois_server": "whois.nic.xin",
+    "data_mark": "NOT FOUND"
+  },
+  "xyz": {
+    "whois_server": "whois.nic.xyz",
+    "data_mark": "NOT FOUND"
+  },
+  "yt": {
+    "whois_server": "whois.nic.yt",
+    "data_mark": "o entries found"
+  },
+  "zm": {
+    "whois_server": "whois.nic.zm",
+    "data_mark": "No Object Found"
+  },
+  "bid": {
+    "whois_server": "whois.nic.bid",
+    "data_mark": "No Data Found"
+  },
+  "ren": {
+    "whois_server": "whois.nic.ren",
+    "data_mark": "The queried object does not exist"
+  },
+  "icu": {
+    "whois_server": "whois.nic.icu",
+    "data_mark": "not exist"
+  },
+  "date": {
+    "whois_server": "whois.nic.date",
+    "data_mark": "No Data Found"
+  },
+  "men": {
+    "whois_server": "whois.nic.men",
+    "data_mark": "No Data Found"
+  },
+  "loan": {
+    "whois_server": "whois.nic.loan",
+    "data_mark": "No Data Found"
+  },
+  "cyou": {
+    "whois_server": "whois.nic.cyou",
+    "data_mark": "does not exist"
+  },
+  "work": {
+    "whois_server": "whois.nic.work",
+    "data_mark": "not been registered"
+  },
+  "review": {
+    "whois_server": "whois.nic.review",
+    "data_mark": "No Data Found"
+  }
+}
